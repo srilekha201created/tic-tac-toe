@@ -1,0 +1,14 @@
+.container .jumbotron{
+  background: #FFB6C1;
+  color: white;
+
+}
+td{
+  height: 100px;
+  width: 100px;
+  border:5px solid black;
+  color: black;
+  text-align: center;
+  font-size: 80px;
+
+}
